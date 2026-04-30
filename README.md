@@ -24,7 +24,7 @@
 
 **Стек:** `Python` · `FastAPI` · `PHP` · `TypeScript` · `JavaScript` · `MySQL` · `HTML/CSS` · `Apache` · `Linux` · `Windows`
 
-### Проекты
+### Несколько моих репозиториев
 
 [`AsoPlay`](https://github.com/x0doit/asoplay)  
 Сервис для просмотра аниме: каталог, поиск, списки, прогресс просмотра, профили и интеграция с AnimeSocial.
@@ -45,7 +45,7 @@ Founder of AnimeSocial, a social network for anime fans. I have also worked with
 
 **Stack:** `Python` · `FastAPI` · `PHP` · `TypeScript` · `JavaScript` · `MySQL` · `HTML/CSS` · `Apache` · `Linux` · `Windows`
 
-### Projects
+### Some of my repositories
 
 [`AsoPlay`](https://github.com/x0doit/asoplay)  
 Anime watching service: catalog, search, lists, watch progress, profiles and AnimeSocial integration.
