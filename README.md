@@ -39,7 +39,7 @@
 
 ## RU
 
-Фуллстек-разработчик, пишу код под ником x0doit. Делаю веб-сервисы, инструменты и проекты вокруг аниме-сообществ. Работаю разработчиком кикшерингового сервиса Бибибайк.
+Фуллстек-разработчик, пишу код под ником x0doit. Делаю веб-сервисы, инструменты и проекты вокруг аниме-сообществ. Работаю тимлидом разработки в кикшеринговом сервисе бибибайк.
 
 Основал AnimeSocial — социальную сеть для анимешников, сейчас идёт открытый бета-тест: [dev.animesocial.online](https://dev.animesocial.online/). Развиваю AsoPlay — стриминговый сервис для просмотра аниме: [play.animesocial.online](https://play.animesocial.online/).
 
@@ -47,7 +47,7 @@
 
 ## EN
 
-Full-stack developer, I write code as x0doit. I build web services, tools and projects around anime communities. I work as a developer at BB Bike, a kicksharing service.
+Full-stack developer, I write code as x0doit. I build web services, tools and projects around anime communities. I work as a team lead at bbbike, a kicksharing service.
 
 Founder of AnimeSocial, a social network for anime fans, now in open beta: [dev.animesocial.online](https://dev.animesocial.online/). I develop AsoPlay, an anime streaming service: [play.animesocial.online](https://play.animesocial.online/).
 
