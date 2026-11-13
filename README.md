@@ -12,6 +12,8 @@
   <a href="https://t.me/x0doit">telegram</a>
   ·
   <a href="https://vk.ru/x0doit">vk</a>
+  ·
+  <a href="mailto:daniel@bb.bike">daniel@bb.bike</a>
 </p>
 
 <p align="center">
