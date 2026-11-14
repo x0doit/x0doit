@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" title="TypeScript">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/dart/dart-original.svg" height="34" alt="Dart" title="Dart">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/go/go-original.svg" height="34" alt="Go" title="Go">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" title="C++">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" title="FastAPI">&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/44B78B"><img src="https://cdn.simpleicons.org/django/092E20" height="34" alt="Django" title="Django"></picture>&nbsp;
@@ -60,7 +61,7 @@ I have also worked with VK communities with 300k+ audience and a Discord ecosyst
 <table>
   <tr>
     <th align="left">Languages</th>
-    <td><code>Python</code> · <code>PHP</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Dart</code> · <code>SQL</code> · <code>C++ (WinAPI)</code> · <code>Bash</code> · <code>PowerShell</code></td>
+    <td><code>Python</code> · <code>PHP</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Dart</code> · <code>Go</code> · <code>SQL</code> · <code>C++ (WinAPI)</code> · <code>Bash</code> · <code>PowerShell</code></td>
   </tr>
   <tr>
     <th align="left">Backend</th>
