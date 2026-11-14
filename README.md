@@ -1,94 +1,84 @@
-<h1 align="center">x0doit</h1>
-
-<p align="center">
-  <b>Чепела Даниэль Максимович</b> / Daniel Chepela<br>
-  Full-stack developer · AnimeSocial founder<br>
-  14.12.1999 · Екатеринбург → Москва, с 2017
+<p>
+<a href="https://x0do.it"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/hero.m.svg"><img src="assets/hero.svg" width="100%" align="top" alt="x0doit — Чепела Даниэль Максимович / Daniel Chepela. Full-stack developer, Team lead at bbbike, Founder of AnimeSocial. 14.12.1999, Екатеринбург → Москва, с 2017."></picture></a><br>
+<picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/about.m.svg"><img src="assets/about.svg" width="100%" align="top" alt="Фуллстек-разработчик, пишу код под ником x0doit. Делаю веб-сервисы, инструменты и проекты вокруг аниме-сообществ. Работаю тимлидом разработки в кикшеринговом сервисе бибибайк. Основал AnimeSocial — социальную сеть для анимешников, сейчас идёт открытый бета-тест: dev.animesocial.online. Развиваю AsoPlay — стриминговый сервис для просмотра аниме: play.animesocial.online. Также занимался крупными VK-сообществами с аудиторией 300k+ и Discord-экосистемой на 500k+ человек. — Full-stack developer, I write code as x0doit. I build web services, tools and projects around anime communities. I work as a team lead at bbbike, a kicksharing service. Founder of AnimeSocial, a social network for anime fans, now in open beta: dev.animesocial.online. I develop AsoPlay, an anime streaming service: play.animesocial.online. I have also worked with VK communities with 300k+ audience and a Discord ecosystem of 500k+ people."></picture><br>
+<picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/stats.m.svg"><img src="assets/stats.svg" width="100%" align="top" alt="300k+ — аудитория VK-сообществ / VK communities audience; 500k+ — человек в Discord-экосистеме / people in a Discord ecosystem"></picture><br>
+<a href="https://dev.animesocial.online/"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/project-animesocial.m.svg"><img src="assets/project-animesocial.svg" width="100%" align="top" alt="AnimeSocial — Социальная сеть для анимешников. Идёт открытый бета-тест. / A social network for anime fans. Now in open beta. dev.animesocial.online"></picture></a><br>
+<a href="https://play.animesocial.online/"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/project-asoplay.m.svg"><img src="assets/project-asoplay.svg" width="100%" align="top" alt="AsoPlay — Стриминговый сервис для просмотра аниме. / An anime streaming service. play.animesocial.online"></picture></a><br>
+<a href="https://bb.bike/"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/project-bbbike.m.svg"><img src="assets/project-bbbike.svg" width="100%" align="top" alt="бибибайк / bbbike — Кикшеринговый сервис. Тимлид разработки. / A kicksharing service. Team lead. bb.bike"></picture></a><br>
+<picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/stack.m.svg"><img src="assets/stack.svg" width="100%" align="top" alt="Стек / Stack — Languages: Python, PHP, TypeScript, JavaScript, Dart, Go, SQL, C++ (WinAPI), Bash, PowerShell. Backend: FastAPI, Django, Django REST Framework, Celery, Node.js, Express, Socket.IO, WebSocket. Frontend: HTML, CSS, Vanilla JS, jQuery, Vue, Nuxt, MapLibre GL, Leaflet, esbuild. Mobile: Flutter, Riverpod, Dio, go_router, flutter_map, Firebase (FCM), Bluetooth LE, Android, iOS. Databases: MySQL, MariaDB, PostgreSQL, PostGIS, Redis, SQLite. Integrations: discord.js, DisTube, Telegram Bot API, sherpa-onnx (speech-to-text), IoT: TCP / BLE. Infra: Linux, systemd, Nginx, Apache, Caddy, Docker, OSPanel, aaPanel, Windows. Testing: pytest, unittest, node:test, flutter_test."></picture><br>
+<a href="https://x0do.it"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/contact-site.m.svg"><img src="assets/contact-site.svg" width="100%" align="top" alt="Сайт / Website: x0do.it"></picture></a><br>
+<a href="https://t.me/x0doit"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/contact-telegram.m.svg"><img src="assets/contact-telegram.svg" width="100%" align="top" alt="Телеграм / Telegram: t.me/x0doit"></picture></a><br>
+<a href="https://vk.ru/x0doit"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/contact-vk.m.svg"><img src="assets/contact-vk.svg" width="100%" align="top" alt="ВКонтакте / VK: vk.ru/x0doit"></picture></a><br>
+<a href="mailto:daniel@bb.bike"><picture><source media="(max-width: 600px), (min-width: 768px) and (max-width: 900px)" srcset="assets/contact-mail.m.svg"><img src="assets/contact-mail.svg" width="100%" align="top" alt="Почта / E-mail: daniel@bb.bike"></picture></a>
 </p>
 
-<p align="center">
-  <a href="https://x0do.it">x0do.it</a>
-  ·
-  <a href="https://t.me/x0doit">telegram</a>
-  ·
-  <a href="https://vk.ru/x0doit">vk</a>
-  ·
-  <a href="mailto:daniel@bb.bike">daniel@bb.bike</a>
-</p>
+<details>
+<summary>Текстовая версия · Text version</summary>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/python/python-original.svg" height="34" alt="Python" title="Python">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/php/php-original.svg" height="34" alt="PHP" title="PHP">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" title="TypeScript">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/dart/dart-original.svg" height="34" alt="Dart" title="Dart">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/go/go-original.svg" height="34" alt="Go" title="Go">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" title="C++">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" title="FastAPI">&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/44B78B"><img src="https://cdn.simpleicons.org/django/092E20" height="34" alt="Django" title="Django"></picture>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" title="Node.js">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/vuejs/vuejs-original.svg" height="34" alt="Vue" title="Vue">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/nuxtjs/nuxtjs-original.svg" height="34" alt="Nuxt" title="Nuxt">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/flutter/flutter-original.svg" height="34" alt="Flutter" title="Flutter">&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/6CB4EE"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/mysql/mysql-original.svg" height="34" alt="MySQL" title="MySQL"></picture>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/redis/redis-original.svg" height="34" alt="Redis" title="Redis">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/docker/docker-original.svg" height="34" alt="Docker" title="Docker">&nbsp;
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="34" alt="Nginx" title="Nginx">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.18.0/icons/linux/linux-original.svg" height="34" alt="Linux" title="Linux">&nbsp;
-</p>
+### x0doit — Чепела Даниэль Максимович / Daniel Chepela
 
----
+Full-stack developer · Team lead at bbbike · Founder of AnimeSocial<br>
+14.12.1999 · Екатеринбург → Москва, с 2017
 
-## RU
+[x0do.it](https://x0do.it) · [t.me/x0doit](https://t.me/x0doit) · [vk.ru/x0doit](https://vk.ru/x0doit) · [daniel@bb.bike](mailto:daniel@bb.bike)
+
+### RU
 
 Фуллстек-разработчик, пишу код под ником x0doit. Делаю веб-сервисы, инструменты и проекты вокруг аниме-сообществ. Работаю тимлидом разработки в кикшеринговом сервисе бибибайк.
 
 Основал AnimeSocial — социальную сеть для анимешников, сейчас идёт открытый бета-тест: [dev.animesocial.online](https://dev.animesocial.online/). Развиваю AsoPlay — стриминговый сервис для просмотра аниме: [play.animesocial.online](https://play.animesocial.online/).
 
-Также занимался крупными VK-сообществами с аудиторией 300k+ и Discord-экосистемой примерно на 500k человек.
+Также занимался крупными VK-сообществами с аудиторией 300k+ и Discord-экосистемой на 500k+ человек.
 
-## EN
+### EN
 
 Full-stack developer, I write code as x0doit. I build web services, tools and projects around anime communities. I work as a team lead at bbbike, a kicksharing service.
 
 Founder of AnimeSocial, a social network for anime fans, now in open beta: [dev.animesocial.online](https://dev.animesocial.online/). I develop AsoPlay, an anime streaming service: [play.animesocial.online](https://play.animesocial.online/).
 
-I have also worked with VK communities with 300k+ audience and a Discord ecosystem of around 500k people.
+I have also worked with VK communities with 300k+ audience and a Discord ecosystem of 500k+ people.
 
-## Стек · Stack
+### Проекты · Projects
+
+- [AnimeSocial](https://dev.animesocial.online/) — Социальная сеть для анимешников. Идёт открытый бета-тест. / A social network for anime fans. Now in open beta.
+- [AsoPlay](https://play.animesocial.online/) — Стриминговый сервис для просмотра аниме. / An anime streaming service.
+- [bbbike](https://bb.bike/) (бибибайк) — Кикшеринговый сервис. Тимлид разработки. / A kicksharing service. Team lead.
+
+### Стек · Stack
 
 <table>
   <tr>
     <th align="left">Languages</th>
-    <td><code>Python</code> · <code>PHP</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Dart</code> · <code>Go</code> · <code>SQL</code> · <code>C++ (WinAPI)</code> · <code>Bash</code> · <code>PowerShell</code></td>
+    <td>Python · PHP · TypeScript · JavaScript · Dart · Go · SQL · C++ (WinAPI) · Bash · PowerShell</td>
   </tr>
   <tr>
     <th align="left">Backend</th>
-    <td><code>FastAPI</code> · <code>Django</code> · <code>Django REST Framework</code> · <code>Celery</code> · <code>Node.js</code> · <code>Express</code> · <code>Socket.IO</code> · <code>WebSocket</code></td>
+    <td>FastAPI · Django · Django REST Framework · Celery · Node.js · Express · Socket.IO · WebSocket</td>
   </tr>
   <tr>
     <th align="left">Frontend</th>
-    <td><code>HTML</code> · <code>CSS</code> · <code>Vanilla JS</code> · <code>jQuery</code> · <code>Vue</code> · <code>Nuxt</code> · <code>MapLibre GL</code> · <code>Leaflet</code> · <code>esbuild</code></td>
+    <td>HTML · CSS · Vanilla JS · jQuery · Vue · Nuxt · MapLibre GL · Leaflet · esbuild</td>
   </tr>
   <tr>
     <th align="left">Mobile</th>
-    <td><code>Flutter</code> · <code>Riverpod</code> · <code>Dio</code> · <code>go_router</code> · <code>flutter_map</code> · <code>Firebase (FCM)</code> · <code>Bluetooth LE</code> · <code>Android</code> · <code>iOS</code></td>
+    <td>Flutter · Riverpod · Dio · go_router · flutter_map · Firebase (FCM) · Bluetooth LE · Android · iOS</td>
   </tr>
   <tr>
     <th align="left">Databases</th>
-    <td><code>MySQL</code> · <code>MariaDB</code> · <code>PostgreSQL</code> · <code>PostGIS</code> · <code>Redis</code> · <code>SQLite</code></td>
+    <td>MySQL · MariaDB · PostgreSQL · PostGIS · Redis · SQLite</td>
   </tr>
   <tr>
     <th align="left">Integrations</th>
-    <td><code>discord.js</code> · <code>DisTube</code> · <code>Telegram Bot API</code> · <code>sherpa-onnx (speech-to-text)</code> · <code>IoT: TCP / BLE</code></td>
+    <td>discord.js · DisTube · Telegram Bot API · sherpa-onnx (speech-to-text) · IoT: TCP / BLE</td>
   </tr>
   <tr>
     <th align="left">Infra</th>
-    <td><code>Linux</code> · <code>systemd</code> · <code>Nginx</code> · <code>Apache</code> · <code>Caddy</code> · <code>Docker</code> · <code>OSPanel</code> · <code>aaPanel</code> · <code>Windows</code></td>
+    <td>Linux · systemd · Nginx · Apache · Caddy · Docker · OSPanel · aaPanel · Windows</td>
   </tr>
   <tr>
     <th align="left">Testing</th>
-    <td><code>pytest</code> · <code>unittest</code> · <code>node:test</code> · <code>flutter_test</code></td>
+    <td>pytest · unittest · node:test · flutter_test</td>
   </tr>
 </table>
+
+</details>
